@@ -6,12 +6,11 @@ homepage: https://github.com/letsar/flutter_sticky_header
 dependencies:
   flutter:
     sdk: flutter
-  value_layout_builder: ^0.3.0
+  value_layout_builder: 0.4.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-  flutter: '>=1.24.0-10.2.pre'
+  sdk: '>=3.4.0 <4.0.0'
